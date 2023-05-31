@@ -21,7 +21,7 @@
     /* Changes the cursor to a pointer when hovering over the button */
     cursor: pointer;
     /* Rounds the corners of the button */
-    border-radius: 50px;
+    border-radius: (10px, 10px, 10px, 0px)
     /* Adds a shadow effect to the button */
     box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.4);
     /* Clips any content that overflows the button */
