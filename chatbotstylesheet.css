@@ -2,7 +2,7 @@
     /* Aligns the button to the right side of the container */
     float: right;
     /* Sets the fill color of the button icon */
-    fill: rgb(4, 118, 208);
+    fill: rgba(78, 48, 149, 1);
     /* Changes the cursor to a pointer when hovering over the button */
     cursor: pointer;
     /* Removes the outline around the button when clicked */
@@ -14,14 +14,14 @@
     justify-content: center;
 
     /* Sets the z-index to ensure the button is on top of other elements */
-    z-index: 1;
+    z-index: 990;
     /* Sets the width and height of the button */
     width: 52px;
     height: 52px;
     /* Changes the cursor to a pointer when hovering over the button */
     cursor: pointer;
     /* Rounds the corners of the button */
-    border-radius: 50%;
+    border-radius: 50px;
     /* Adds a shadow effect to the button */
     box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.4);
     /* Clips any content that overflows the button */
@@ -37,7 +37,7 @@
 }
 
 .bpw-floating-button {
-    background-image: url(https://cdn-icons-png.flaticon.com/512/6134/6134346.png);
+    background-image: url(http://themohis.com/wp-content/uploads/revslider/blooming-header/Flower-12.png);
 }
 
 .bpw-floating-button i {
